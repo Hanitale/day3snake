@@ -1,0 +1,26 @@
+﻿body
+.row {overflow: hidden;
+}
+
+.col {
+    padding:5px;
+    background-color:#FF4000;
+    height:20px;
+    width: 20px;
+    border: solid 1px;
+    float: left;
+}
+.black{
+
+    background-color:black;
+}
+.yellow{
+
+    background-color:yellow;
+}
+#stage {
+    
+padding-left:100px;
+align-content:center;
+
+}
